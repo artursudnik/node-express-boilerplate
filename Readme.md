@@ -1,7 +1,5 @@
 # Introduction
-These basic application are all my solutions, ideas and experiences put  
-together in one boilerplate application to be used as a base for new  
-node/express/pug implementations.
+These basic application are all my solutions, ideas and experiences put together in one boilerplate application to be used as a base for new node/express/pug implementations.
 
 # Features
 - asynchronous startup routines

@@ -11,6 +11,7 @@ const log4js = require('log4js'),
 
 logger.info('loading');
 logger.info(`NODE_ENV=${process.env.NODE_ENV}`);
+logger.info(`PID=${process.pid}`);
 
 const app       = require('../app'),
       webserver = require('../lib/webserver');
