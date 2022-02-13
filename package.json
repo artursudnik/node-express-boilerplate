@@ -10,7 +10,7 @@
     "dotenv-defaults": "2.0.1",
     "express": "4.17.2",
     "express-async-handler": "1.1.4",
-    "log4js": "6.4.0",
+    "log4js": "6.4.1",
     "pug": "3.0.2",
     "static-asset": "0.6.0"
   }
