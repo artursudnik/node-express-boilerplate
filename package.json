@@ -7,7 +7,7 @@
     "nodemon": "nodemon bin/www.js"
   },
   "dependencies": {
-    "dotenv-defaults": "^2",
+    "dotenv-defaults": "^5.0.0",
     "express": "^4",
     "express-async-handler": "^1",
     "log4js": "^6",
