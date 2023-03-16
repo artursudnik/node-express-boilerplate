@@ -161,9 +161,9 @@ doctypes@^1.1.0:
   integrity sha1-6oCxBqh1OHdOijpKWv4pPeSJ4Kk=
 
 dotenv-defaults@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv-defaults/-/dotenv-defaults-5.0.0.tgz#af69c0c5966f736d9619c162c086154dabe5fa62"
-  integrity sha512-YnSVn9UP3j1njjalwrjOSlFkcT9b06BYSy5RqK1gI7bD+iezY7a1GOgJ+M4Vcs4A5RcE/ZcK1bYUAzIjUNqAzA==
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/dotenv-defaults/-/dotenv-defaults-5.0.2.tgz#065c410ea516011651e9c60dae0c8902ec53d609"
+  integrity sha512-y5z4NhblzwNk8XBIYVzjLcFkANK0rxbRDO6kGOfH9QrVYIGVEX52IqwSprKVsaLHM9pnNkCSxazZF/JPydDPvA==
   dependencies:
     dotenv "^14.0.0"
 
